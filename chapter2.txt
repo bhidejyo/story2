@@ -1,0 +1,2 @@
+new file chapter2.txt created in master branch
+while experimenting branch is also there with chapter1.txt updated in the branch
